@@ -1,0 +1,19 @@
+<data>
+    <paragraph>
+     <book_id>1</book_id>
+     <book_title>The definitive guide to Drupal 7</book_title>
+     <book_author>Benjamin Melançon et al.</book_author>   
+    </paragraph>
+    
+    <paragraph>
+     <book_id>2</book_id>
+     <book_title>Understanding Drupal Views</book_title>
+     <book_author>Carlos Dinarte</book_author>   
+    </paragraph>
+    
+    <paragraph>
+     <book_id>3</book_id>
+     <book_title>Understanding Drupal Migrations</book_title>
+     <book_author>Mauricio Dinarte</book_author>   
+    </paragraph>
+</data>
